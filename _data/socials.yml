@@ -2,45 +2,45 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-academia_edu:  "https://www.unibo.it/sitoweb/thomas.quettier2/en"
-organization: UNIBO # your organization as appears in the subdomain
+ academia_edu:  "https://www.unibo.it/sitoweb/thomas.quettier2/en"
+ organization: "UNIBO" # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: research@tcjq.eu # your email address
+ email: "research@tcjq.eu" # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: Merluin
+ github_username: "Merluin"
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+ inspirehep_id: "1010907" # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: "Thomas Quettier"
+ linkedin_username: "Thomas Quettier"
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: "https://orcid.org/0000-0003-4804-7652"
-osf_id: "https://osf.io/rjm86/"
+ orcid_id: "https://orcid.org/0000-0003-4804-7652"
+ osf_id: "https://osf.io/rjm86/"
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile: "https://www.researchgate.net/profile/Thomas-Quettier?ev=hdr_xprf"
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: OcuYHlcAAAAJ # your Google Scholar ID
-scopus_id: "https://www.scopus.com/authid/detail.uri?authorId=57193405343"
+ research_gate_profile: "https://www.researchgate.net/profile/Thomas-Quettier?ev=hdr_xprf"
+ rss_icon: true # comment this line to hide the RSS icon
+ scholar_userid: "OcuYHlcAAAAJ" # your Google Scholar ID
+ scopus_id: "https://www.scopus.com/authid/detail.uri?authorId=57193405343"
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
 # strava_userid: # your strava user id
-telegram_username: @tcjq0
+ telegram_username: "@tcjq0"
 # unsplash_id: # your unsplash id
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
