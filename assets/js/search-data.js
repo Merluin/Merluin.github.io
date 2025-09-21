@@ -504,13 +504,6 @@ ninja.data = [{
           window.open("", "_blank");
         },
       },{
-        id: 'social-organization',
-        title: 'Organization',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -523,13 +516,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/Merluin", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
         id: 'social-linkedin',
