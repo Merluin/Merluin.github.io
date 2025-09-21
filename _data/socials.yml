@@ -13,7 +13,7 @@ organization: UNIBO # your organization as appears in the subdomain
 email: research@tcjq.eu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: Merluin
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -28,14 +28,14 @@ inspirehep_id: 1010907 # Inspire HEP author ID
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: "https://orcid.org/0000-0003-4804-7652"
-# osf_id: # your OSF ID
+osf_id: "https://osf.io/rjm86/"
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-# research_gate_profile: # your profile on ResearchGate
+research_gate_profile: "https://www.researchgate.net/profile/Thomas-Quettier?ev=hdr_xprf"
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: OcuYHlcAAAAJ # your Google Scholar ID
-# scopus_id: # your profile on Scopus
+scopus_id: "https://www.scopus.com/authid/detail.uri?authorId=57193405343"
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
@@ -50,7 +50,7 @@ telegram_username: @tcjq0
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://tcjq.eu/
+#custom_social: # can be any name here other than the ones already defined above
+#  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#  title: Custom Social
+#  url: https://tcjq.eu/
