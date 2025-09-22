@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. University of Bologna. Department of Psy
 profile:
   align: right
   image: profile.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bologna, Italy</p>
 
