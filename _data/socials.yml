@@ -2,7 +2,7 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
- academia_edu:  "https://www.unibo.it/sitoweb/thomas.quettier2/en"
+# academia_edu:  "https://www.unibo.it/sitoweb/thomas.quettier2/en"
 # organization: "UNIBO" # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
@@ -32,10 +32,10 @@
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
- research_gate_profile: "https://www.researchgate.net/profile/Thomas-Quettier?ev=hdr_xprf"
- rss_icon: true # comment this line to hide the RSS icon
+# research_gate_profile: "https://www.researchgate.net/profile/Thomas-Quettier?ev=hdr_xprf"
+# rss_icon: true # comment this line to hide the RSS icon
  scholar_userid: "OcuYHlcAAAAJ" # your Google Scholar ID
- scopus_id: "https://www.scopus.com/authid/detail.uri?authorId=57193405343"
+# scopus_id: "https://www.scopus.com/authid/detail.uri?authorId=57193405343"
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
