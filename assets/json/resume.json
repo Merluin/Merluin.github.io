@@ -394,66 +394,163 @@
   }
 ],
   "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+  {
+    "name": "Research Methods",
+    "level": "Advanced",
+    "icon": "fa-solid fa-brain",
+    "keywords": [
+      "Binocular Rivalry",
+      "TMS",
+      "EEG",
+      "EMG",
+      "Neuronavigation",
+      "Tactile Stimulation",
+      "Electric Stimulation"
+    ]
+  },
+  {
+    "name": "Programming",
+    "level": "Intermediate",
+    "icon": "fa-solid fa-code",
+    "keywords": [
+      "MATLAB",
+      "Python",
+      "R",
+      "Arduino IDE"
+    ]
+  },
+  {
+    "name": "Data Analysis",
+    "level": "Advanced",
+    "icon": "fa-solid fa-chart-line",
+    "keywords": [
+      "MATLAB",
+      "Python",
+      "R",
+      "Jamovi",
+      "Statistica",
+      "Excel"
+    ]
+  },
+  {
+    "name": "Stimuli & Task Presentation",
+    "level": "Advanced",
+    "icon": "fa-solid fa-desktop",
+    "keywords": [
+      "PsychoPy",
+      "Psychtoolbox",
+      "E-Prime",
+      "OpenSesame"
+    ]
+  },
+  {
+    "name": "Graphic & Technical Tools",
+    "level": "Intermediate",
+    "icon": "fa-solid fa-pencil-ruler",
+    "keywords": [
+      "BioRender",
+      "Photoshop",
+      "Fusion 360",
+      "3D Printing"
+    ]
+  },
+  {
+    "name": "Writing & Referencing",
+    "level": "Advanced",
+    "icon": "fa-solid fa-pen",
+    "keywords": [
+      "LaTeX",
+      "Markdown",
+      "Word",
+      "Google Docs",
+      "Mendeley",
+      "Paperpile",
+      "ReadCube"
+    ]
+  },
+  {
+    "name": "Clinical & Neuropsychological Testing",
+    "level": "Advanced",
+    "icon": "fa-solid fa-user-md",
+    "keywords": [
+      "Test administration",
+      "Scoring",
+      "Psychological Evaluation"
+    ]
+  }
   ],
-  "languages": [
+    "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-language"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Fluent",
+      "icon": "fa-solid fa-language"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-language"
     }
   ],
-  "interests": [
+    "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Affective Neuroscience",
+      "icon": "fa-solid fa-heart",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Emotion Recognition",
+        "Facial Mimicry",
+        "Embodiment"
+      ]
+    },
+    {
+      "name": "Open Science & Technology",
+      "icon": "fa-solid fa-flask",
+      "keywords": [
+        "Arduino",
+        "Low-cost Neuroscience",
+        "Reproducible Methods"
       ]
     }
   ],
-  "references": [
+    "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Prof. Sara Borgomaneri",
+      "icon": "fa-solid fa-university",
+      "reference": "Department of Psychology, University of Bologna – Supervisor in postdoctoral research on emotional action control using TMS and EMG."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Prof. Paola Sessa",
+      "icon": "fa-solid fa-university",
+      "reference": "Department of General Psychology, University of Padova – PhD and postdoctoral supervisor on facial mimicry and visual awareness."
     }
   ],
-  "projects": [
+    "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "TMS-TouchPad-P4R4",
+      "summary": "Open-source custom hardware and software system enabling precise control of TMS triggers using a capacitive touchpad and Arduino-based platform.",
+      "highlights": [
+        "Low-cost, open-access solution for TMS experiments",
+        "Arduino-controlled digital triggering",
+        "Designed for sensorimotor neuroscience applications"
+      ],
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "url": "https://github.com/merluin/TMS-TouchPad-P4R4"
+    },
+    {
+      "name": "ORIS (Orbicularis Reafference Integration System)",
+      "summary": "Development of a force-balance model for facial expression control, emphasizing mechanoreceptive feedback over proprioception.",
+      "highlights": [
+        "Binocular rivalry paradigms",
+        "Facial EMG and tactile stimulation",
+      ],
+      "startDate": "2025-01-01",
+      "endDate": null,
+      "url": "https://tcjq.eu/projects/oris"
     }
   ]
 }
