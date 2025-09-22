@@ -30,11 +30,7 @@
       "startDate": "2024-10-01",
       "endDate": "2025-11-30",
       "summary": "Research project: Uncovering the Neural Basis of Authentic Emotion Recognition.",
-      "highlights": [
-        "TMS, EMG, mimicry manipulation",
-        "Stimuli control via PsychoPy",
-        "PI: Prof. Sara Borgomaneri"
-      ]
+      "highlights": ["TMS, EMG, mimicry manipulation", "Stimuli control via PsychoPy", "PI: Prof. Sara Borgomaneri"]
     },
     {
       "name": "University of Padova",
@@ -61,11 +57,7 @@
       "startDate": "2023-10-16",
       "endDate": "2024-09-30",
       "summary": "Research project: The influence of emotions on actions: Boosting brain network plasticity to ameliorate action control.",
-      "highlights": [
-        "TMS, EMG, mimicry manipulation",
-        "Stimuli control via PsychoPy",
-        "PI: Prof. Sara Borgomaneri"
-      ]
+      "highlights": ["TMS, EMG, mimicry manipulation", "Stimuli control via PsychoPy", "PI: Prof. Sara Borgomaneri"]
     },
     {
       "name": "University of Padova",
@@ -74,11 +66,7 @@
       "startDate": "2023-01-01",
       "endDate": "2023-09-30",
       "summary": "Research project: Unraveling the unique role of the embodied route for emotional face processing.",
-      "highlights": [
-        "Mimicry manipulation",
-        "Facial palsy research",
-        "PI: Prof. Paola Sessa"
-      ]
+      "highlights": ["Mimicry manipulation", "Facial palsy research", "PI: Prof. Paola Sessa"]
     },
     {
       "name": "University of Padova",
@@ -154,9 +142,7 @@
       "startDate": "2018-10-01",
       "endDate": "2021-12-31",
       "score": "Excellent",
-      "courses": [
-        "Thesis: Conscious processing of facial expressions and the contribution of somesthetic signals"
-      ],
+      "courses": ["Thesis: Conscious processing of facial expressions and the contribution of somesthetic signals"],
       "supervisors": ["Prof. Paola Sessa"]
     },
     {
@@ -168,9 +154,7 @@
       "startDate": "2017-10-01",
       "endDate": "2018-07-16",
       "score": "108/110",
-      "courses": [
-        "Thesis: What is most salient? Hierarchy of sensory features"
-      ],
+      "courses": ["Thesis: What is most salient? Hierarchy of sensory features"],
       "supervisors": ["Prof. Lucia Regolin", "Prof. Giandomenico Iannetti"]
     },
     {
@@ -182,9 +166,7 @@
       "startDate": "2016-10-01",
       "endDate": "2017-07-31",
       "score": null,
-      "courses": [
-        "Completed at the University of Padova through the ERASMUS program"
-      ]
+      "courses": ["Completed at the University of Padova through the ERASMUS program"]
     },
     {
       "institution": "University Lumière Lyon 2",
@@ -206,10 +188,7 @@
       "startDate": "1997-09-01",
       "endDate": "2000-06-30",
       "score": "Passable",
-      "courses": [
-        "Over 1000 hours of coursework",
-        "Equivalent to 137 ECTS credits"
-      ]
+      "courses": ["Over 1000 hours of coursework", "Equivalent to 137 ECTS credits"]
     }
   ],
   "awards": [
@@ -395,15 +374,7 @@
     },
     {
       "title": "From emotion perception to action: a ccPAS study",
-      "authors": [
-        "Quettier, T.",
-        "Però, L.",
-        "Arlati, N.",
-        "Lenzi, L.",
-        "Cardellicchio, P.",
-        "Battaglia, S.",
-        "Borgomaneri, S."
-      ],
+      "authors": ["Quettier, T.", "Però, L.", "Arlati, N.", "Lenzi, L.", "Cardellicchio, P.", "Battaglia, S.", "Borgomaneri, S."],
       "date": "2024-07-16",
       "event": "International Affective and Cognitive Neuroscience Conference (BRAINiac Annual Meeting)",
       "location": "Tenerife, Spain",
@@ -411,39 +382,21 @@
     },
     {
       "title": "Individual differences in intracortical inhibition predict action control when facing emotional and neutral stimuli",
-      "authors": [
-        "Quettier, T.",
-        "Ippolito, G.",
-        "Cardellicchio, P.",
-        "Battaglia, S.",
-        "Borgomaneri, S."
-      ],
+      "authors": ["Quettier, T.", "Ippolito, G.", "Cardellicchio, P.", "Battaglia, S.", "Borgomaneri, S."],
       "date": "2024-09-11",
       "event": "British Association of Cognitive Neuroscience (BACN Annual Meeting)",
       "location": "London, UK"
     },
     {
       "title": "Motor resonance as predictive modeling of emotions",
-      "authors": [
-        "Quettier, T.",
-        "Schiano, A.",
-        "Caruana, F.",
-        "Sessa, P.",
-        "Quadrelli, E."
-      ],
+      "authors": ["Quettier, T.", "Schiano, A.", "Caruana, F.", "Sessa, P.", "Quadrelli, E."],
       "date": "2024-11-06",
       "event": "Società Italiana di Psicofisiologia e Neuroscienze Cognitive (SIPF Annual Meeting)",
       "location": "Cesena, Italy"
     },
     {
       "title": "Individual differences in intracortical inhibition predict action control when facing emotional and neutral stimuli",
-      "authors": [
-        "Quettier, T.",
-        "Ippolito, G.",
-        "Cardellicchio, P.",
-        "Battaglia, S.",
-        "Borgomaneri, S."
-      ],
+      "authors": ["Quettier, T.", "Ippolito, G.", "Cardellicchio, P.", "Battaglia, S.", "Borgomaneri, S."],
       "date": "2025-01-22",
       "event": "Postdoctoral Research Symposium - IX Edition",
       "location": "University of Bologna, Bologna, Italy"
@@ -480,14 +433,7 @@
     },
     {
       "title": "Individual differences in intracortical inhibition predict action control when facing emotional and neutral stimuli",
-      "authors": [
-        "Quettier, T.",
-        "Ippolito, G.",
-        "Però, L.",
-        "Cardellicchio, P.",
-        "Battaglia, S.",
-        "Borgomaneri, S."
-      ],
+      "authors": ["Quettier, T.", "Ippolito, G.", "Però, L.", "Cardellicchio, P.", "Battaglia, S.", "Borgomaneri, S."],
       "date": "2024-09-06",
       "event": "Società Italiana di Psicofisiologia e Neuroscienze Cognitive (SIPF Annual Meeting)",
       "location": "Cesena, Italy"
@@ -515,26 +461,14 @@
     },
     {
       "title": "Boosting emotion authenticity recognition: a ccPAS study",
-      "authors": [
-        "Quettier, T.",
-        "Però, L.",
-        "Scarpazza, C.",
-        "Borgomaneri, S."
-      ],
+      "authors": ["Quettier, T.", "Però, L.", "Scarpazza, C.", "Borgomaneri, S."],
       "date": "2024-10-11",
       "event": "Ettore Majorana Foundation and Centre for Scientific Culture",
       "location": "Erice, Italy"
     },
     {
       "title": "Cortico-Cortical Paired Associative Stimulation to Enhance Action Control: Towards a Novel Therapeutic Approach",
-      "authors": [
-        "Borgomaneri, S.",
-        "Però, L.",
-        "Arlati, L.",
-        "Lenzi, L.",
-        "Quettier, T.",
-        "Battaglia, S."
-      ],
+      "authors": ["Borgomaneri, S.", "Però, L.", "Arlati, L.", "Lenzi, L.", "Quettier, T.", "Battaglia, S."],
       "date": "2025-01-28",
       "event": "European Workshop on Cognitive Neuropsychology",
       "location": "Bressanone, Italy"
@@ -571,14 +505,7 @@
       "position": "Workshop Instructor (20h, multiple sessions)",
       "course": "PsychoPy3: programmare un esperimento",
       "institution": "ARCA, Department of Developmental Psychology, University of Padova",
-      "dates": [
-        "2021-11-08",
-        "2022-10-17",
-        "2023-10-16",
-        "2024-04-15",
-        "2024-11-04",
-        "2025-03-17"
-      ],
+      "dates": ["2021-11-08", "2022-10-17", "2023-10-16", "2024-04-15", "2024-11-04", "2025-03-17"],
       "summary": "Taught experiment design using the PsychoPy Builder interface, from basics to advanced features."
     }
   ],
@@ -608,15 +535,7 @@
       "name": "Research Methods",
       "level": "Advanced",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Binocular Rivalry",
-        "TMS",
-        "EEG",
-        "EMG",
-        "Neuronavigation",
-        "Tactile Stimulation",
-        "Electric Stimulation"
-      ]
+      "keywords": ["Binocular Rivalry", "TMS", "EEG", "EMG", "Neuronavigation", "Tactile Stimulation", "Electric Stimulation"]
     },
     {
       "name": "Programming",
@@ -646,15 +565,7 @@
       "name": "Writing & Referencing",
       "level": "Advanced",
       "icon": "fa-solid fa-pen",
-      "keywords": [
-        "LaTeX",
-        "Markdown",
-        "Word",
-        "Google Docs",
-        "Mendeley",
-        "Paperpile",
-        "ReadCube"
-      ]
+      "keywords": ["LaTeX", "Markdown", "Word", "Google Docs", "Mendeley", "Paperpile", "ReadCube"]
     },
     {
       "name": "Clinical & Neuropsychological Testing",
@@ -704,10 +615,7 @@
     {
       "name": "Dr. Pier Francesco Ferrari",
       "topics": ["Emotion Processing", "Simulation Theory", "Moebius Syndrome"],
-      "affiliations": [
-        "Institut des Sciences Cognitives Marc Jeannerod, CNRS/Université Claude Bernard Lyon",
-        "University of Parma"
-      ]
+      "affiliations": ["Institut des Sciences Cognitives Marc Jeannerod, CNRS/Université Claude Bernard Lyon", "University of Parma"]
     },
     {
       "name": "Prof. Matthew Longo",
