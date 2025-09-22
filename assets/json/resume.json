@@ -1,27 +1,27 @@
 {
   "basics": {
-  "name": "Thomas Quettier",
-  "label": "Postdoctoral Researcher, Psychologist",
-  "image": "",
-  "email": "research@tcjq.eu",
-  "phone": "",
-  "url": "https://tcjq.eu",
-  "summary": "Postdoctoral researcher and licensed psychologist specializing in emotion recognition, facial mimicry, and sensorimotor integration. Experienced in EEG, TMS, EMG, and behavioral paradigms across clinical and non-clinical populations.",
-  "location": {
-    "address": "via del Borgo di San Pietro",
-    "postalCode": "40126",
-    "city": "Bologna",
-    "countryCode": "IT",
-    "region": "Emilia-Romagna"
+    "name": "Thomas Quettier",
+    "label": "Postdoctoral Researcher, Psychologist",
+    "image": "",
+    "email": "research@tcjq.eu",
+    "phone": "",
+    "url": "https://tcjq.eu",
+    "summary": "Postdoctoral researcher and licensed psychologist specializing in emotion recognition, facial mimicry, and sensorimotor integration. Experienced in EEG, TMS, EMG, and behavioral paradigms across clinical and non-clinical populations.",
+    "location": {
+      "address": "via del Borgo di San Pietro",
+      "postalCode": "40126",
+      "city": "Bologna",
+      "countryCode": "IT",
+      "region": "Emilia-Romagna"
+    },
+    "profiles": [
+      {
+        "network": "Bluesky",
+        "username": "thomasquettier",
+        "url": "https://bsky.app/profile/thomasquettier.bsky.social"
+      }
+    ]
   },
-  "profiles": [
-    {
-      "network": "Bluesky",
-      "username": "thomasquettier",
-      "url": "https://bsky.app/profile/thomasquettier.bsky.social"
-    }
-  ]
-},
   "work": [
     {
       "name": "University of Bologna",
@@ -259,227 +259,396 @@
       "summary": "10-month mobility grant for research training at the University of Padova under the supervision of Prof. Francesca Peressotti."
     }
   ],
-  "certificates": [
+  "publications": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Finger posture modulates structural body representations",
+      "authors": "Tamè, L., Dransfield, E., Quettier, T., & Longo, M. R.",
+      "journal": "Scientific Reports",
+      "releaseDate": "2017-02-21",
+      "url": "https://doi.org/10.1038/srep43019",
+      "summary": "Study on the modulation of structural body representations by finger posture. *Marked with an asterisk (independent of PhD supervisor)."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Blocking facial mimicry during binocular rivalry modulates visual awareness of faces with a neutral expression",
+      "authors": "Quettier, T., Gambarota, F., Tsuchiya, N., & Sessa, P.",
+      "journal": "Scientific Reports",
+       "releaseDate": "2021-05-11",
+      "url": "https://doi.org/10.1038/s41598-021-89355-5",
+      "summary": "Explores the role of mimicry in perceptual dominance during binocular rivalry."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Conscious processing of facial expressions and the contribution of somesthetic signals",
+      "authors": "Quettier, T.",
+      "journal": "PhD Thesis, University of Padova",
+      "releaseDate": "2021-12-31",
+      "url": "https://hdl.handle.net/11577/3459400",
+      "summary": "Doctoral dissertation available in open access."
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Testing EEG functional connectivity between sensorimotor and face-processing visual regions in individuals with congenital facial palsy",
+      "authors": "Quettier, T., Maffei, A., Gambarota, F., Ferrari, P. F., & Sessa, P.",
+      "journal": "Frontiers in Systems Neuroscience",
+      "releaseDate": "2023-07-24",
+      "url": "https://doi.org/10.3389/fnsys.2023.1123221",
+      "summary": "EEG connectivity study on facial palsy and face perception."
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "In and Out of Consciousness: A method to study the temporal evolution of consciousness during binocular rivalry",
+      "authors": "Quettier, T., Di Lello, N., Tsuchiya, N., & Sessa, P.",
+      "journal": "Frontiers in Human Neuroscience",
+      "releaseDate": "2023-11-30",
+      "url": "https://doi.org/10.3389/fnhum.2023.1145653",
+      "summary": "Introduces a novel method for tracking visual consciousness dynamics."
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "When mind and body align: examining the role of cross-modal congruency in conscious representations of happy facial expressions",
+      "authors": "Quettier, T., Moro, E., Tsuchiya, N., & Sessa, P.",
+      "journal": "Cognition and Emotion",
+      "releaseDate": "2023-12-15",
+      "url": "https://doi.org/10.1080/02699931.2023.2285823",
+      "summary": "Cross-modal integration between somesthetic and visual signals during emotion perception."
+    },
+    {
+      "name": "Individual differences in intracortical inhibition predict action control when facing emotional stimuli",
+      "authors": "Quettier, T.*, Ippolito, G., Però, L., Cardellicchio, P., Battaglia, S., & Borgomaneri, S.",
+      "journal": "Frontiers in Psychology",
+      "releaseDate": "2024-04-30",
+      "url": "https://doi.org/10.3389/fpsyg.2024.1391723",
+      "summary": "*TMS study on action inhibition and emotional context. Independent of PhD supervisor."
+    },
+    {
+      "name": "Silicon Spike: An Arduino-based low-cost and open-access triggerbox to precisely control TMS devices",
+      "authors": "Ippolito, G., Quettier, T.*, Borgomaneri, S., & Romei, V.",
+      "journal": "Behavior Research Methods",
+      "releaseDate": "2025-03-05",
+      "url": "https://doi.org/10.3758/s13428-025-02653-y",
+      "summary": "*Describes a low-cost open-source tool for triggering TMS. Independent of PhD supervisor."
+    },
+    {
+      "name": "Facial expressions selectively modulate P300 somatosensory evoked-potential, but emotional scenes do not: Electrophysiological evidence for Sensorimotor Simulation",
+      "authors": "Costa, S., Lomoriello, A., Quettier, T., Caruana, F., Ferrari, P. F., & Sessa, P.",
+      "journal": "NeuroImage",
+      "releaseDate": "2025-07-01",
+      "url": "https://doi.org/10.1016/j.neuroimage.2025.121322",
+      "summary": "Presents ERP evidence that facial expressions uniquely impact sensorimotor simulation."
+    },
+    {
+      "name": "Early changes in corticospinal excitability for subliminally presented fearful body postures",
+      "authors": "Borgomaneri, S.*, Quettier, T.*, Ambrosecchia, M., Battaglia, S., Tamietto, M., & Avenanti, A.",
+      "journal": "Scientific Reports",
+      "releaseDate": "2025-08-01",
+      "url": "https://doi.org/10.1038/s41598-025-13185-y",
+      "summary": "*TMS study on unconscious processing of emotional body cues."
+    },
+    {
+      "name": "Enhancing human action inhibition through cortico-cortical paired associative stimulation",
+      "authors": "Però, L., Arlati, N., Lenzi, L., Quettier, T.*, Ippolito, G., Battaglia, S., & Borgomaneri, S.",
+      "journal": "Annals of the New York Academy of Sciences",
+      "releaseDate": "2025-09-01",
+      "url": "https://doi.org/10.1111/nyas.70077",
+      "summary": "*ccPAS study showing causal modulation of action inhibition networks."
     }
   ],
-  "publications": [
-  {
-    "name": "Finger posture modulates structural body representations",
-    "authors": "Tamè, L., Dransfield, E., Quettier, T., & Longo, M. R.",
-    "journal": "Scientific Reports",
-    "releaseDate": "2017-02-21",
-    "url": "https://doi.org/10.1038/srep43019",
-    "summary": "Study on the modulation of structural body representations by finger posture. *Marked with an asterisk (independent of PhD supervisor)."
-  },
-  {
-    "name": "Blocking facial mimicry during binocular rivalry modulates visual awareness of faces with a neutral expression",
-    "authors": "Quettier, T., Gambarota, F., Tsuchiya, N., & Sessa, P.",
-    "journal": "Scientific Reports",
-    "releaseDate": "2021-05-11",
-    "url": "https://doi.org/10.1038/s41598-021-89355-5",
-    "summary": "Explores the role of mimicry in perceptual dominance during binocular rivalry."
-  },
-  {
-    "name": "Conscious processing of facial expressions and the contribution of somesthetic signals",
-    "authors": "Quettier, T.",
-    "journal": "PhD Thesis, University of Padova",
-    "releaseDate": "2021-12-31",
-    "url": "https://hdl.handle.net/11577/3459400",
-    "summary": "Doctoral dissertation available in open access."
-  },
-  {
-    "name": "Testing EEG functional connectivity between sensorimotor and face-processing visual regions in individuals with congenital facial palsy",
-    "authors": "Quettier, T., Maffei, A., Gambarota, F., Ferrari, P. F., & Sessa, P.",
-    "journal": "Frontiers in Systems Neuroscience",
-    "releaseDate": "2023-07-24",
-    "url": "https://doi.org/10.3389/fnsys.2023.1123221",
-    "summary": "EEG connectivity study on facial palsy and face perception."
-  },
-  {
-    "name": "In and Out of Consciousness: A method to study the temporal evolution of consciousness during binocular rivalry",
-    "authors": "Quettier, T., Di Lello, N., Tsuchiya, N., & Sessa, P.",
-    "journal": "Frontiers in Human Neuroscience",
-    "releaseDate": "2023-11-30",
-    "url": "https://doi.org/10.3389/fnhum.2023.1145653",
-    "summary": "Introduces a novel method for tracking visual consciousness dynamics."
-  },
-  {
-    "name": "When mind and body align: examining the role of cross-modal congruency in conscious representations of happy facial expressions",
-    "authors": "Quettier, T., Moro, E., Tsuchiya, N., & Sessa, P.",
-    "journal": "Cognition and Emotion",
-    "releaseDate": "2023-12-15",
-    "url": "https://doi.org/10.1080/02699931.2023.2285823",
-    "summary": "Cross-modal integration between somesthetic and visual signals during emotion perception."
-  },
-  {
-    "name": "Individual differences in intracortical inhibition predict action control when facing emotional stimuli",
-    "authors": "Quettier, T.*, Ippolito, G., Però, L., Cardellicchio, P., Battaglia, S., & Borgomaneri, S.",
-    "journal": "Frontiers in Psychology",
-    "releaseDate": "2024-04-30",
-    "url": "https://doi.org/10.3389/fpsyg.2024.1391723",
-    "summary": "*TMS study on action inhibition and emotional context. Independent of PhD supervisor."
-  },
-  {
-    "name": "Silicon Spike: An Arduino-based low-cost and open-access triggerbox to precisely control TMS devices",
-    "authors": "Ippolito, G., Quettier, T.*, Borgomaneri, S., & Romei, V.",
-    "journal": "Behavior Research Methods",
-    "releaseDate": "2025-03-05",
-    "url": "https://doi.org/10.3758/s13428-025-02653-y",
-    "summary": "*Describes a low-cost open-source tool for triggering TMS. Independent of PhD supervisor."
-  },
-  {
-    "name": "Facial expressions selectively modulate P300 somatosensory evoked-potential, but emotional scenes do not: Electrophysiological evidence for Sensorimotor Simulation",
-    "authors": "Costa, S., Lomoriello, A., Quettier, T., Caruana, F., Ferrari, P. F., & Sessa, P.",
-    "journal": "NeuroImage",
-    "releaseDate": "2025-07-01",
-    "url": "https://doi.org/10.1016/j.neuroimage.2025.121322",
-    "summary": "Presents ERP evidence that facial expressions uniquely impact sensorimotor simulation."
-  },
-  {
-    "name": "Early changes in corticospinal excitability for subliminally presented fearful body postures",
-    "authors": "Borgomaneri, S.*, Quettier, T.*, Ambrosecchia, M., Battaglia, S., Tamietto, M., & Avenanti, A.",
-    "journal": "Scientific Reports",
-    "releaseDate": "2025-08-01",
-    "url": "https://doi.org/10.1038/s41598-025-13185-y",
-    "summary": "*TMS study on unconscious processing of emotional body cues."
-  },
-  {
-    "name": "Enhancing human action inhibition through cortico-cortical paired associative stimulation",
-    "authors": "Però, L., Arlati, N., Lenzi, L., Quettier, T.*, Ippolito, G., Battaglia, S., & Borgomaneri, S.",
-    "journal": "Annals of the New York Academy of Sciences",
-    "releaseDate": "2025-09-01",
-    "url": "https://doi.org/10.1111/nyas.70077",
-    "summary": "*ccPAS study showing causal modulation of action inhibition networks."
-  }
-],
-  "skills": [
-  {
-    "name": "Research Methods",
-    "level": "Advanced",
-    "icon": "fa-solid fa-brain",
-    "keywords": [
-      "Binocular Rivalry",
-      "TMS",
-      "EEG",
-      "EMG",
-      "Neuronavigation",
-      "Tactile Stimulation",
-      "Electric Stimulation"
-    ]
-  },
-  {
-    "name": "Programming",
-    "level": "Intermediate",
-    "icon": "fa-solid fa-code",
-    "keywords": [
-      "MATLAB",
-      "Python",
-      "R",
-      "Arduino IDE"
-    ]
-  },
-  {
-    "name": "Data Analysis",
-    "level": "Advanced",
-    "icon": "fa-solid fa-chart-line",
-    "keywords": [
-      "MATLAB",
-      "Python",
-      "R",
-      "Jamovi",
-      "Statistica",
-      "Excel"
-    ]
-  },
-  {
-    "name": "Stimuli & Task Presentation",
-    "level": "Advanced",
-    "icon": "fa-solid fa-desktop",
-    "keywords": [
-      "PsychoPy",
-      "Psychtoolbox",
-      "E-Prime",
-      "OpenSesame"
-    ]
-  },
-  {
-    "name": "Graphic & Technical Tools",
-    "level": "Intermediate",
-    "icon": "fa-solid fa-pencil-ruler",
-    "keywords": [
-      "BioRender",
-      "Photoshop",
-      "Fusion 360",
-      "3D Printing"
-    ]
-  },
-  {
-    "name": "Writing & Referencing",
-    "level": "Advanced",
-    "icon": "fa-solid fa-pen",
-    "keywords": [
-      "LaTeX",
-      "Markdown",
-      "Word",
-      "Google Docs",
-      "Mendeley",
-      "Paperpile",
-      "ReadCube"
-    ]
-  },
-  {
-    "name": "Clinical & Neuropsychological Testing",
-    "level": "Advanced",
-    "icon": "fa-solid fa-user-md",
-    "keywords": [
-      "Test administration",
-      "Scoring",
-      "Psychological Evaluation"
-    ]
-  }
+  "conferences":  [
+    {
+      "title": "Conscious processing of facial expressions and the contribute of somesthetic signals: Evidence from binocular rivalry dynamics",
+      "authors": ["Quettier, T."],
+      "date": "2020-05-21",
+      "event": "PhD School Lunch",
+      "location": "University of Padova, Padova, Italy"
+    },
+    {
+      "title": "Facial mimicry and rivalry",
+      "authors": ["Quettier, T."],
+      "date": "2021-03-13",
+      "event": "Cognitive Neuroscience Society Annual Meeting",
+      "location": "Online"
+    },
+    {
+      "title": "On the cycle of consciousness and how to study it",
+      "authors": ["Quettier, T.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2021-12-03",
+      "event": "The Science of Consciousness: Obstacles to Progress and Strategies to Overcome Them",
+      "location": "University of Oslo, Online Workshop"
+    },
+    {
+      "title": "Conscious processing of facial expressions and the contribute of somesthetic signals: Evidence from binocular rivalry dynamics",
+      "authors": ["Quettier, T.", "Gambarota, F.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2022-04-01",
+      "event": "Body Representation Laboratory",
+      "location": "Birkbeck University of London, London, UK",
+      "invited": true
+    },
+    {
+      "title": "The Affective Turn in Cognitive Science",
+      "authors": ["Quettier, T."],
+      "date": "2022-06-23",
+      "event": "Associazione Italiana di Scienze Cognitive (AISC Midterm Conference)",
+      "location": "University of Parma, Parma, Italy"
+    },
+    {
+      "title": "Conscious processing of facial expressions",
+      "authors": ["Quettier, T."],
+      "date": "2022-09-27",
+      "event": "Associazione Italiana di Psicologia (AIP Annual Meeting)",
+      "location": "University of Padova, Padova, Italy",
+      "invited": true
+    },
+    {
+      "title": "I metodi per studiare i contenuti della consapevolezza",
+      "authors": ["Quettier, T."],
+      "date": "2023-03-16",
+      "event": "Brain Awareness Week",
+      "location": "University of Padova, Padova, Italy",
+      "invited": true
+    },
+    {
+      "title": "From emotion perception to action: a ccPAS study",
+      "authors": ["Quettier, T.", "Però, L.", "Arlati, N.", "Lenzi, L.", "Cardellicchio, P.", "Battaglia, S.", "Borgomaneri, S."],
+      "date": "2024-07-16",
+      "event": "International Affective and Cognitive Neuroscience Conference (BRAINiac Annual Meeting)",
+      "location": "Tenerife, Spain",
+      "invited": true
+    },
+    {
+      "title": "Individual differences in intracortical inhibition predict action control when facing emotional and neutral stimuli",
+      "authors": ["Quettier, T.", "Ippolito, G.", "Cardellicchio, P.", "Battaglia, S.", "Borgomaneri, S."],
+      "date": "2024-09-11",
+      "event": "British Association of Cognitive Neuroscience (BACN Annual Meeting)",
+      "location": "London, UK"
+    },
+    {
+      "title": "Motor resonance as predictive modeling of emotions",
+      "authors": ["Quettier, T.", "Schiano, A.", "Caruana, F.", "Sessa, P.", "Quadrelli, E."],
+      "date": "2024-11-06",
+      "event": "Società Italiana di Psicofisiologia e Neuroscienze Cognitive (SIPF Annual Meeting)",
+      "location": "Cesena, Italy"
+    },
+    {
+      "title": "Individual differences in intracortical inhibition predict action control when facing emotional and neutral stimuli",
+      "authors": ["Quettier, T.", "Ippolito, G.", "Cardellicchio, P.", "Battaglia, S.", "Borgomaneri, S."],
+      "date": "2025-01-22",
+      "event": "Postdoctoral Research Symposium - IX Edition",
+      "location": "University of Bologna, Bologna, Italy"
+    }
   ],
-    "languages": [
+  "posters": [
+    {
+      "title": "Sensorimotor modulation of visual consciousness of others’ emotions",
+      "authors": ["Quettier, T.", "Gambarota, F.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2019-04-10",
+      "event": "PhD Open Day",
+      "location": "University of Padova, Padova, Italy"
+    },
+    {
+      "title": "Blocking facial mimicry during binocular rivalry modulates visual awareness of others’ facial expressions of emotion",
+      "authors": ["Quettier, T.", "Gambarota, F.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2019-06-06",
+      "event": "Summer School on Bayesian Statistical Analyses for the Human, Social and Cognitive Sciences",
+      "location": "University of Verona, Verona, Italy"
+    },
+    {
+      "title": "Blocking facial mimicry during binocular rivalry modulates visual awareness of others’ facial expressions of emotion",
+      "authors": ["Quettier, T.", "Gambarota, F.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2021-03-14",
+      "event": "Cognitive Neuroscience Society (CNS Annual Meeting)",
+      "location": "Online"
+    },
+    {
+      "title": "Induced Facial mimicry during binocular rivalry modulates visual awareness of faces with a happy expression",
+      "authors": ["Quettier, T.", "Moro, E.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2023-11-10",
+      "event": "Società Italiana di Psicofisiologia e Neuroscienze Cognitive (SIPF Annual Meeting)",
+      "location": "Siena, Italy"
+    },
+    {
+      "title": "Individual differences in intracortical inhibition predict action control when facing emotional and neutral stimuli",
+      "authors": ["Quettier, T.", "Ippolito, G.", "Però, L.", "Cardellicchio, P.", "Battaglia, S.", "Borgomaneri, S."],
+      "date": "2024-09-06",
+      "event": "Società Italiana di Psicofisiologia e Neuroscienze Cognitive (SIPF Annual Meeting)",
+      "location": "Cesena, Italy"
+    },
+    {
+      "title": "Increasing associative plasticity in premotor-temporal backprojections improves emotion's authenticity discrimination",
+      "authors": ["Quettier, T.", "Scarpazza, C.", "Borgomaneri, S."],
+      "date": "2024-09-04",
+      "event": "Società Italiana di Psicofisiologia e Neuroscienze Cognitive (SIPF Annual Meeting)",
+      "location": "Cesena, Italy"
+    },
+    {
+      "title": "When Mind and Body Align: Examining the Role of Cross-Modal Congruency in Conscious Representations of Happy Facial Expressions",
+      "authors": ["Quettier, T.", "Moro, E.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2024-09-10",
+      "event": "British Association of Cognitive Neuroscience (BACN)",
+      "location": "London, UK"
+    },
+    {
+      "title": "Facial Feedback or Sensorimotor Simulation? Induced Smiling During Binocular Rivalry Enhances Conscious Perception of Positive Stimuli",
+      "authors": ["Ghislandi, A.", "Quettier, T.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2024-10-11",
+      "event": "Ettore Majorana Foundation and Centre for Scientific Culture",
+      "location": "Erice, Italy"
+    },
+    {
+      "title": "Boosting emotion authenticity recognition: a ccPAS study",
+      "authors": ["Quettier, T.", "Però, L.", "Scarpazza, C.", "Borgomaneri, S."],
+      "date": "2024-10-11",
+      "event": "Ettore Majorana Foundation and Centre for Scientific Culture",
+      "location": "Erice, Italy"
+    },
+    {
+      "title": "Cortico-Cortical Paired Associative Stimulation to Enhance Action Control: Towards a Novel Therapeutic Approach",
+      "authors": ["Borgomaneri, S.", "Però, L.", "Arlati, L.", "Lenzi, L.", "Quettier, T.", "Battaglia, S."],
+      "date": "2025-01-28",
+      "event": "European Workshop on Cognitive Neuropsychology",
+      "location": "Bressanone, Italy"
+    }
+  ],
+  "teaching": [
+    {
+      "position": "Adjunct Professor (online, 20h)",
+      "course": "Basic Level Statistics",
+      "institution": "Doctoral School, University of Verona",
+      "startDate": "2024-11-27",
+      "endDate": "2025-01-08",
+      "language": "English",
+      "summary": "Taught measurement theory and statistical analysis using R and Jamovi."
+    },
+    {
+      "position": "Supplementary Teaching (30h/year)",
+      "course": "General Psychology (Module B)",
+      "institution": "University of Padova",
+      "startDate": "2022-10-01",
+      "endDate": "2026-09-30",
+      "language": "Italian",
+      "summary": "Designed online quizzes, moderated forums, and supported student learning for B.Sc. students in Psychological Science."
+    },
+    {
+      "position": "Instructor & Tutor (16h)",
+      "course": "PsychoPy3 & Open Science",
+      "institution": "The ARCA Initiative, University of Padova",
+      "startDate": "2025-06-30",
+      "endDate": "2025-07-05",
+      "summary": "Hands-on training in PsychoPy and reproducibility with Dr. Rebecca Hirst (Open Science Tools)."
+    },
+    {
+      "position": "Workshop Instructor (20h, multiple sessions)",
+      "course": "PsychoPy3: programmare un esperimento",
+      "institution": "ARCA, Department of Developmental Psychology, University of Padova",
+      "dates": [
+        "2021-11-08", "2022-10-17", "2023-10-16", "2024-04-15", "2024-11-04", "2025-03-17"
+      ],
+      "summary": "Taught experiment design using the PsychoPy Builder interface, from basics to advanced features."
+    }
+  ],
+  "institutionalRoles": [
+    {
+      "position": "PhD Representative",
+      "organization": "Department of Developmental Psychology and Socialisation, University of Padua",
+      "startDate": "2018-10-01",
+      "endDate": "2021-12-31",
+      "summary": "Acted as intermediary between PhD students and the department head. Proposed initiatives addressing student concerns."
+    },
+    {
+      "position": "Postdoc Representative",
+      "organization": "Department of Psychology, University of Bologna",
+      "startDate": "2024-02-20",
+      "summary": "Representation of postdocs at the departmental board, including bottom-up initiative proposals."
+    },
+    {
+      "position": "Teaching Board Member",
+      "organization": "Italian Reproducibility Network (ITRN)",
+      "startDate": "2024-04-30",
+      "summary": "Development of a national registry of open science training in Italy."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research Methods",
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Binocular Rivalry",
+        "TMS",
+        "EEG",
+        "EMG",
+        "Neuronavigation",
+        "Tactile Stimulation",
+        "Electric Stimulation"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "MATLAB",
+        "Python",
+        "R",
+        "Arduino IDE"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Advanced",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "MATLAB",
+        "Python",
+        "R",
+        "Jamovi",
+        "Statistica",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Stimuli & Task Presentation",
+      "level": "Advanced",
+      "icon": "fa-solid fa-desktop",
+      "keywords": [
+        "PsychoPy",
+        "Psychtoolbox",
+        "E-Prime",
+        "OpenSesame"
+      ]
+    },
+    {
+      "name": "Graphic & Technical Tools",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-pencil-ruler",
+      "keywords": [
+        "BioRender",
+        "Photoshop",
+        "Fusion 360",
+        "3D Printing"
+      ]
+    },
+    {
+      "name": "Writing & Referencing",
+      "level": "Advanced",
+      "icon": "fa-solid fa-pen",
+      "keywords": [
+        "LaTeX",
+        "Markdown",
+        "Word",
+        "Google Docs",
+        "Mendeley",
+        "Paperpile",
+        "ReadCube"
+      ]
+    },
+    {
+      "name": "Clinical & Neuropsychological Testing",
+      "level": "Advanced",
+      "icon": "fa-solid fa-user-md",
+      "keywords": [
+        "Test administration",
+        "Scoring",
+        "Psychological Evaluation"
+      ]
+    }
+  ],
+  "languages": [
     {
       "language": "French",
       "fluency": "Native speaker",
@@ -492,65 +661,139 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": "fa-solid fa-language"
+      "fluency": "Fluent","icon": "fa-solid fa-language"
     }
   ],
-    "interests": [
+  "memberships": [
     {
-      "name": "Affective Neuroscience",
-      "icon": "fa-solid fa-heart",
-      "keywords": [
-        "Emotion Recognition",
-        "Facial Mimicry",
-        "Embodiment"
+      "organization": "Associazione Italiana di Psicologia (AIP)",
+      "section": "Experimental Section",
+      "startDate": "2018"
+    },
+    {
+      "organization": "Association for Mathematical Consciousness Science (AMCS)",
+      "startDate": "2023"
+    },
+    {
+      "organization": "Italian Reproducibility Network (ITRN)",
+      "startDate": "2023"
+    },
+    {
+      "organization": "Psicostat",
+      "institution": "University of Padua, Department of Developmental Psychology and Socialisation",
+      "startDate": "2018"
+    }
+  ],
+  "collaborations": [
+    {
+      "name": "Dr. Pier Francesco Ferrari",
+      "topics": ["Emotion Processing", "Simulation Theory", "Moebius Syndrome"],
+      "affiliations": [
+        "Institut des Sciences Cognitives Marc Jeannerod, CNRS/Université Claude Bernard Lyon",
+        "University of Parma"
       ]
     },
     {
-      "name": "Open Science & Technology",
-      "icon": "fa-solid fa-flask",
-      "keywords": [
-        "Arduino",
-        "Low-cost Neuroscience",
-        "Reproducible Methods"
-      ]
-    }
-  ],
-    "references": [
-    {
-      "name": "Prof. Sara Borgomaneri",
-      "icon": "fa-solid fa-university",
-      "reference": "Department of Psychology, University of Bologna – Supervisor in postdoctoral research on emotional action control using TMS and EMG."
+      "name": "Prof. Matthew Longo",
+      "topics": ["Proprioception"],
+      "affiliations": ["Birkbeck, University of London"]
     },
     {
-      "name": "Prof. Paola Sessa",
-      "icon": "fa-solid fa-university",
-      "reference": "Department of General Psychology, University of Padova – PhD and postdoctoral supervisor on facial mimicry and visual awareness."
-    }
-  ],
-    "projects": [
-    {
-      "name": "TMS-TouchPad-P4R4",
-      "summary": "Open-source custom hardware and software system enabling precise control of TMS triggers using a capacitive touchpad and Arduino-based platform.",
-      "highlights": [
-        "Low-cost, open-access solution for TMS experiments",
-        "Arduino-controlled digital triggering",
-        "Designed for sensorimotor neuroscience applications"
-      ],
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "url": "https://github.com/merluin/TMS-TouchPad-P4R4"
+      "name": "Prof. Naotsugu Tsuchiya",
+      "topics": ["Consciousness"],
+      "affiliations": ["Monash University"]
     },
     {
-      "name": "ORIS (Orbicularis Reafference Integration System)",
-      "summary": "Development of a force-balance model for facial expression control, emphasizing mechanoreceptive feedback over proprioception.",
-      "highlights": [
-        "Binocular rivalry paradigms",
-        "Facial EMG and tactile stimulation",
-      ],
-      "startDate": "2025-01-01",
-      "endDate": null,
-      "url": "https://tcjq.eu/projects/oris"
+      "name": "Dr. Garcia-Larrea Luis",
+      "topics": ["Neuropathic Pain"],
+      "affiliations": ["Neuropain, INSERM, Bron, France"]
+    },
+    {
+      "name": "COLAB Research Team",
+      "topics": [],
+      "affiliations": ["University of Padua"]
+    }
+  ],
+  "training": [
+    {
+      "title": "The Complete Machine Learning Course with Python",
+      "institution": "Online Course",
+      "location": "Online",
+      "courseLeader": "Anthony NG; Rob Percival",
+      "date": "2025-08-06 – present",
+      "duration": "17.5 hours"
+    },
+    {
+      "title": "Integrated Master’s Degrees in Psychological Assessment",
+      "institution": "Université Lumière Lyon 2",
+      "location": "Lyon, France",
+      "courseLeader": "",
+      "date": "2025-01-17 – present",
+      "duration": "114 hours"
+    },
+    {
+      "title": "Integrated Information Theory of Consciousness: From Explanations to Implications",
+      "institution": "Neuroscience School of Advanced Studies",
+      "location": "Italy",
+      "courseLeader": "Christof Koch, Giulio Tononi",
+      "date": "2023-09-08 – 2023-09-16",
+      "duration": ""
+    },
+    {
+      "title": "The Git & GitHub Bootcamp",
+      "institution": "Online Course",
+      "location": "Online",
+      "courseLeader": "Colt Steele",
+      "date": "2022-09-30",
+      "duration": "17 hours"
+    },
+    {
+      "title": "Linear Algebra for Neuroscientists",
+      "institution": "Radboud University",
+      "location": "Netherlands",
+      "courseLeader": "Mike X Cohen",
+      "date": "2021-08-09 – 2021-08-13",
+      "duration": "Summer school"
+    },
+    {
+      "title": "MATLAB Onramp 2020: Coding, Concepts, Confidence, and Style",
+      "institution": "Online Course",
+      "location": "Online",
+      "courseLeader": "Mike X Cohen",
+      "date": "2021-05-11",
+      "duration": "10.5 hours"
+    },
+    {
+      "title": "Machine Learning and AI in Biology",
+      "institution": "University of Würzburg",
+      "location": "Germany",
+      "courseLeader": "Philip Kollmannsberger",
+      "date": "2019-09-22 – 2019-09-27",
+      "duration": "Summer school"
+    },
+    {
+      "title": "Bayesian Statistical Analyses for the Human Social and Cognitive Sciences",
+      "institution": "University of Verona",
+      "location": "Italy",
+      "courseLeader": "Karl J. Friston, Rosalyn Moran, Richard Morey, Marco Tullio Liuzza, Daniele Romano, Michele Scandola",
+      "date": "2019-06-03 – 2019-06-07",
+      "duration": "Summer school"
+    },
+    {
+      "title": "EEG Signal Analysis and Source Reconstruction with Brainstorm",
+      "institution": "Corsi Avanzati per la Ricerca Scientifica (CARS), University of Padova",
+      "location": "Italy",
+      "courseLeader": "Gian Marco Duma",
+      "date": "2017-09-02 – 2017-09-10",
+      "duration": ""
+    },
+    {
+      "title": "Psychtoolbox for MATLAB and MATLAB Basics",
+      "institution": "Corsi Avanzati per la Ricerca Scientifica (CARS), University of Padova",
+      "location": "Italy",
+      "courseLeader": "Luca Battaglini",
+      "date": "2017-09-11 – 2017-09-17",
+      "duration": ""
     }
   ]
 }
