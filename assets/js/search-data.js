@@ -497,13 +497,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-academia_edu',
-        title: 'Academia_edu',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -539,32 +532,11 @@ ninja.data = [{
           window.open("https://osf.io/https://osf.io/rjm86//", "_blank");
         },
       },{
-        id: 'social-researchgate',
-        title: 'ResearchGate',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Thomas-Quettier?ev=hdr_xprf/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=OcuYHlcAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-scopus',
-        title: 'Scopus',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.scopus.com/authid/detail.uri?authorId=https://www.scopus.com/authid/detail.uri?authorId=57193405343", "_blank");
         },
       },{
         id: 'social-telegram',
