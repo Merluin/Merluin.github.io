@@ -1,33 +1,24 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: New Postdoctoral Position at the University of Bologna
+date: 2024-09-01 09:00:00+0200
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+As of September 1st, 2024, I have officially begun a new postdoctoral research position at the **Department of Psychology, University of Bologna**, under the supervision of **Dr. Sara Borgomaneri**.
 
----
+This position follows the successful outcome of the public selection held on **June 7, 2024**, for one research fellowship titled:
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+> _“Uncovering the Neural Basis of Authentic Emotion Recognition”_
 
-#### Hipster list
+The project is funded by the European Union – **NextGenerationEU**, under the Italian **National Recovery and Resilience Plan (PNRR)** – Mission 4: Education and Research, Component 2: From Research to Enterprise – Investment 1.1, as part of the **PRIN 2022 PNRR** call (Ministerial Decree No. 1409 of 14/09/2022).
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+Project title:  
+**_How we perceive emotions' authenticity: neural basis and rehabilitation pathways_**  
+Project code: **MUR P2022LC5AK_002**  
+CUP: **J53D23017250001**
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+The selection results were formally approved on **July 22, 2024** (D.D. n. Rep. 197 Prot. 2004), officially appointing **Dr. Thomas Charles Joseph Quettier** as the awardee.
 
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+I'm thrilled to join this project and contribute to advancing our understanding of how the brain processes the authenticity of emotional expressions, with implications for both basic neuroscience and rehabilitation strategies.
