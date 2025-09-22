@@ -4,9 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - merluin/Psychopy_SST_template 
+  - merluin/Psychopy_SST_template
   - merluin/TMS-TouchPad-P4R4
-  - merluin/BR_setting 
+  - merluin/BR_setting
   - merluin/Statistical-Analysis-Course
   - merluin/Data_analysis_template
   - arca-dpss/course-psychopy3
