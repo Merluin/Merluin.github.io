@@ -1,27 +1,27 @@
 {
   "basics": {
-    "name": "Thomas Quettier",
-    "label": "Postdoc, Psychologist",
-    "image": "",
-    "email": "research@tcjq.eu",
-    "phone": "(912) 123-4567",
-    "url": "https://tcjq.eu",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+  "name": "Thomas Quettier",
+  "label": "Postdoctoral Researcher, Psychologist",
+  "image": "",
+  "email": "research@tcjq.eu",
+  "phone": "",
+  "url": "https://tcjq.eu",
+  "summary": "Postdoctoral researcher and licensed psychologist specializing in emotion recognition, facial mimicry, and sensorimotor integration. Experienced in EEG, TMS, EMG, and behavioral paradigms across clinical and non-clinical populations.",
+  "location": {
+    "address": "via del Borgo di San Pietro",
+    "postalCode": "40126",
+    "city": "Bologna",
+    "countryCode": "IT",
+    "region": "Emilia-Romagna"
   },
+  "profiles": [
+    {
+      "network": "Bluesky",
+      "username": "thomasquettier",
+      "url": "https://bsky.app/profile/thomasquettier.bsky.social"
+    }
+  ]
+},
   "work": [
     {
       "name": "University of Bologna",
