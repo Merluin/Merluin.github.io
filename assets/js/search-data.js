@@ -426,16 +426,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-new-postdoctoral-position-at-the-university-of-bologna",
+          title: 'New Postdoctoral Position at the University of Bologna',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-upcoming-arca-psychopy-course-starting-november-27-2025",
+          title: 'Upcoming ARCA PsychoPy Course – Starting November 27, 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-today-i-suspend-all-work-activities-in-solidarity-with-the-palestinian-people-not-in-my-name",
+          title: 'Today I suspend all work activities 🇵🇸 in solidarity with the Palestinian people:...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
