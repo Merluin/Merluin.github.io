@@ -17,12 +17,12 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 2 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 2 # leave blank to include all the blog posts
 ---
 
 I am a cognitive neuroscientist and registered clinical psychologist whose career bridges social work, clinical practice, and neuroscience research. Before entering academia, I worked in frontline services with individuals facing severe mental health challenges, addiction, and social exclusion.
