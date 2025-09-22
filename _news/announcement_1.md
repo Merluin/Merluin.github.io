@@ -17,9 +17,3 @@ I strike to express my **solidarity with the Palestinian people**, who are endur
 >  
 > What is happening in Gaza is **not in my name**.
 
-Sincerely,  
-**Thomas Quettier**
-
----
-
-🇵🇸 **Today I suspend all work activities in solidarity with the Palestinian people: not in my name.**
