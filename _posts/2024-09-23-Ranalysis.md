@@ -6,7 +6,8 @@ description: Rproj template for data analysis
 tags: analysis tutoriel
 categories: sample-posts
 giscus_comments: true
-related_posts: false
+related_posts: true
+featured: true
 ---
 
 # Data analysis template: A Reproducible R Framework for PsychoPy Behavioral Experiments
@@ -24,7 +25,7 @@ This template is ideal for researchers who collect `.csv` files from PsychoPy ex
 The template provides:
 
 - A structured R project layout (`R/`, `data/`, `original_data/`, etc.)
-- some Ready-to-use functions
+- Ready-to-use functions for common preprocessing steps
 - Support for saving results in `.RData` and `.xlsx`
 - A clean GitHub repository with MIT license and template button
 
@@ -39,22 +40,35 @@ This template was created to address common issues in behavioral science researc
 - Inconsistent use of statistical functions
 - Lack of reproducibility
 
-By providing a clear, modular R structure and ready-to-use helper functions, this project improves transparency and makes it easy to replicate your own or others' work.
+By providing a clear, modular R structure and helper functions, this project promotes transparency and makes it easy to replicate your own or others' work.
+
+---
+
+## What is an R Project (`.Rproj`)?
+
+An R project file (`.Rproj`) defines a **self-contained environment** in RStudio. Think of it as a sandbox:
+
+- All your scripts, data, and outputs stay in one place
+- You don't need to manage complex file paths — `here::here()` or relative paths work out of the box
+- It's easy to **share**, **version**, and **reproduce** the analysis on another computer
+
+In short: **open the `.Rproj` file, and you’re ready to go.**
 
 ---
 
 ## Getting Started
 
-You can start using the template in two ways:
+You can start using the template in **three easy ways**:
 
-### 1. Use it directly from GitHub:
+### 1. Use it directly from GitHub
 
 Click the green **"Use this template"** button:  
 👉 [https://github.com/Merluin/Data_analysis_template](https://github.com/Merluin/Data_analysis_template)
 
-This creates a new copy under your own GitHub account, preserving the folder structure and code.
+This creates a new copy under your own GitHub account, preserving the folder structure and code.  
+✨ Don’t forget to leave a ⭐ on the repository if you find it helpful!
 
-### 2. Clone manually:
+### 2. Clone manually
 
 ```bash
 git clone https://github.com/Merluin/Data_analysis_template.git
@@ -62,12 +76,17 @@ git clone https://github.com/Merluin/Data_analysis_template.git
 
 Then open Data_analysis.Rproj in RStudio and start analyzing.
 
-⸻
+### 3. Just download the ZIP
 
-📁 Project Structure
+Click the “Code” button and select “Download ZIP”.
+Unzip it anywhere, open the .Rproj file, and you’re ready to go — no Git required.
+
+---
+
+## 📁 Project Structure
 
 ```bash
-AnalysisRproj/
+Data_analysis_template/
 ├── DESCRIPTION             # R package metadata
 ├── R/                      # All core analysis functions
 ├── data/                   # Cleaned datasets saved as .RData
@@ -78,24 +97,20 @@ AnalysisRproj/
 └── Data_analysis.Rproj     # RStudio project file
 ```
 
-✍️ Author Note
+---
 
-This project is maintained by Thomas Quettier. Feel free to fork, contribute, or get in touch if you’re working on similar projects.
-If you'd like to support my work, you can do so here:  
-☕ [buymeacoffee.com/thomasquettier](https://www.buymeacoffee.com/thomasquettier)
+## ☕ The Coffee Machine Corner
 
-⸻
+This blog — The Coffee Machine — is where ideas percolate.
+If you found this project useful, consider supporting the time and caffeine behind it:
+👉 buymeacoffee.com/thomasquettier
 
-🧠 Acknowledgements
-• PsychoPy for stimulus presentation
-• R and the tidyverse for data analysis infrastructure
-
-⸻
-
-If you use this template in your work or research, feel free to cite it or drop me a message — I’d love to hear how it’s helping others!
+You’re also warmly invited to fork the repo, contribute, or reach out if you’re working on similar tools. Collaboration brews innovation!
 
 ---
 
-Let me know if you want:
+## 💬 Leave a Comment
 
-- A BibTeX citation block for the template
+Have thoughts, questions, or suggestions? Want to share how you’re using the template in your lab?
+
+👉 Scroll down and leave a comment below! I’d love to hear from you.
