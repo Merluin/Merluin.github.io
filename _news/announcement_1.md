@@ -13,7 +13,6 @@ Although my current position as a postdoctoral researcher does not formally gran
 
 I strike to express my **solidarity with the Palestinian people**, who are enduring an ongoing genocide, and to demand a **free Palestine**.
 
-> Our country and our universities are complicit in Israeli policies: I demand an immediate change of course.  
->  
+> Our country and our universities are complicit in Israeli policies: I demand an immediate change of course.
+>
 > What is happening in Gaza is **not in my name**.
-

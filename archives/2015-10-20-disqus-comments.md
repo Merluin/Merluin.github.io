@@ -11,7 +11,7 @@ related_posts: false
 
 # Data analysis template: A Reproducible R Framework for PsychoPy Behavioral Experiments
 
-I'm excited to share a new open-source project designed to streamline the process of analyzing behavioral data collected with [PsychoPy](https://www.psychopy.org/):  
+I'm excited to share a new open-source project designed to streamline the process of analyzing behavioral data collected with [PsychoPy](https://www.psychopy.org/):
 
 👉 **[Data_analysis_template on GitHub](https://github.com/Merluin/Data_analysis_template)**
 
@@ -33,6 +33,7 @@ The template provides:
 ## Why Use It
 
 This template was created to address common issues in behavioral science research:
+
 - Poor file organization
 - Redundant code copy-pasting between experiments
 - Inconsistent use of statistical functions
@@ -42,7 +43,7 @@ By providing a clear, modular R structure and ready-to-use helper functions, thi
 
 ---
 
-##  Getting Started
+## Getting Started
 
 You can start using the template in two ways:
 
@@ -64,6 +65,7 @@ Then open Data_analysis.Rproj in RStudio and start analyzing.
 ⸻
 
 📁 Project Structure
+
 ```bash
 AnalysisRproj/
 ├── DESCRIPTION             # R package metadata
@@ -78,15 +80,15 @@ AnalysisRproj/
 
 ✍️ Author Note
 
-This project is maintained by Thomas Quettier. Feel free to fork, contribute, or get in touch if you’re working on similar projects. 
+This project is maintained by Thomas Quettier. Feel free to fork, contribute, or get in touch if you’re working on similar projects.
 If you'd like to support my work, you can do so here:  
 ☕ [buymeacoffee.com/thomasquettier](https://www.buymeacoffee.com/thomasquettier)
 
 ⸻
 
 🧠 Acknowledgements
-	•	PsychoPy for stimulus presentation
-	•	R and the tidyverse for data analysis infrastructure
+• PsychoPy for stimulus presentation
+• R and the tidyverse for data analysis infrastructure
 
 ⸻
 
@@ -95,6 +97,5 @@ If you use this template in your work or research, feel free to cite it or drop 
 ---
 
 Let me know if you want:
+
 - A BibTeX citation block for the template
-
-
