@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: distill
 title: Data Analysis Template
 date: 2024-09-23
 description: Rproj template for data analysis
 tags: analysis tutoriel
 categories: sample-posts
-disqus_comments: true
+giscus_comments: true
 related_posts: false
 ---
 
