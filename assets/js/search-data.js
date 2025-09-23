@@ -58,15 +58,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-silicon-spike-arduino-trigger-box-for-tms",
         
-          title: "",
+          title: "Silicon Spike Arduino Trigger Box for TMS",
         
-        description: "",
+        description: "An open-source hardware solution for delivering precise TMS triggers.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2018-12-22-distill/";
+            window.location.href = "/blog/2025/distill/";
           
         },
       },{id: "post-data-analysis-template",
