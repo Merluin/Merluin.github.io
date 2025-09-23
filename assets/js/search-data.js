@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-distill-style-blog-post",
+            },{id: "post-data-analysis-template",
+        
+          title: "Data Analysis Template",
+        
+        description: "Rproj template for data analysis",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/Ranalysis/";
+          
+        },
+      },{id: "post-a-distill-style-blog-post",
         
           title: "a distill-style blog post",
         
