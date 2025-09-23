@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Analysis Template
-date: 2025-09-24
+date: 2025-09-23
 description: Rproj template for data analysis
 tags: analysis tutoriel
 categories: sample-posts
