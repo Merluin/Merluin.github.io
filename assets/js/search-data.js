@@ -62,7 +62,7 @@ ninja.data = [{
         
           title: "Arduino Trigger Box for TMS",
         
-        description: "An open-source hardware solution for delivering precise TMS triggers.",
+        description: "An open source hardware solution for delivering precise TMS triggers.",
         section: "Posts",
         handler: () => {
           
