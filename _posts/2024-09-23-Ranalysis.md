@@ -19,8 +19,6 @@ I'm excited to share a new open-source project designed to streamline the proces
 
 This template is ideal for researchers who collect `.csv` files from PsychoPy experiments and want a consistent, reusable R-based analysis workflow.
 
----
-
 ## What It Does
 
 The template provides:
@@ -29,8 +27,6 @@ The template provides:
 - Ready-to-use functions for common preprocessing steps
 - Support for saving results in `.RData` and `.xlsx`
 - A clean GitHub repository with MIT license and template button
-
----
 
 ## Why Use It
 
@@ -43,8 +39,6 @@ This template was created to address common issues in behavioral science researc
 
 By providing a clear, modular R structure and helper functions, this project promotes transparency and makes it easy to replicate your own or others' work.
 
----
-
 ## What is an R Project (`.Rproj`)?
 
 An R project file (`.Rproj`) defines a **self-contained environment** in RStudio. Think of it as a sandbox:
@@ -54,8 +48,6 @@ An R project file (`.Rproj`) defines a **self-contained environment** in RStudio
 - It's easy to **share**, **version**, and **reproduce** the analysis on another computer
 
 In short: **open the `.Rproj` file, and you’re ready to go.**
-
----
 
 ## Getting Started
 
@@ -82,8 +74,6 @@ Then open Data_analysis.Rproj in RStudio and start analyzing.
 Click the “Code” button and select “Download ZIP”.
 Unzip it anywhere, open the .Rproj file, and you’re ready to go — no Git required.
 
----
-
 ## 📁 Project Structure
 
 ```bash
@@ -98,8 +88,6 @@ Data_analysis_template/
 └── Data_analysis.Rproj     # RStudio project file
 ```
 
----
-
 ## ☕ The Coffee Machine Corner
 
 This blog — The Coffee Machine — is where ideas percolate.
@@ -108,10 +96,8 @@ If you found this project useful, consider supporting the time and caffeine behi
 
 You’re also warmly invited to fork the repo, contribute, or reach out if you’re working on similar tools. Collaboration brews innovation!
 
----
-
 ## 💬 Leave a Comment
 
-Have thoughts, questions, or suggestions? Want to share how you’re using the template in your lab?
+Have thoughts, questions, or suggestions, spot an error?
 
 👉 Scroll down and leave a comment below! I’d love to hear from you.
