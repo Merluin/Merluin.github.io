@@ -8,6 +8,7 @@ categories: sample-posts
 giscus_comments: true
 related_posts: true
 featured: true
+thumbnail: assets/img/R.png
 ---
 
 # Data analysis template: A Reproducible R Framework for PsychoPy Behavioral Experiments
