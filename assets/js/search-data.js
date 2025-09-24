@@ -91,6 +91,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/Ranalysis/";
           
         },
+      },{id: "post-tms-touchpad",
+        
+          title: "TMS TouchPad",
+        
+        description: "An open source hardware solution for TMS Controls.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/TMSpad/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
