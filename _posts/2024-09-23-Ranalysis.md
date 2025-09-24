@@ -96,8 +96,4 @@ If you found this project useful, consider supporting the time and caffeine behi
 
 You’re also warmly invited to fork the repo, contribute, or reach out if you’re working on similar tools. Collaboration brews innovation!
 
-## 💬 Leave a Comment
-
-Have thoughts, questions, or suggestions, spot an error?
-
 👉 Scroll down and leave a comment below! I’d love to hear from you.
