@@ -3,7 +3,7 @@ layout: distill
 title: Data Analysis Template
 date: 2024-09-23
 description: Rproj template for data analysis
-tags: analysis tutoriel
+tags: analysis template open_science
 categories: sample-posts
 giscus_comments: true
 related_posts: true
