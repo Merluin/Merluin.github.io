@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-arduino-trigger-box-for-tms",
+            },{id: "post-psychopy-sst-template",
+        
+          title: "Psychopy SST Template",
+        
+        description: "A complete PsychoPy + R solution for running and analyzing the Stop Signal Task (SST) following Verbruggen et al. (2019).",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/sst/";
+          
+        },
+      },{id: "post-arduino-trigger-box-for-tms",
         
           title: "Arduino Trigger Box for TMS",
         
