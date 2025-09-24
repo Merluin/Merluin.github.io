@@ -92,7 +92,7 @@ Data_analysis_template/
 
 This blog — The Coffee Machine — is where ideas percolate.
 If you found this project useful, consider supporting the time and caffeine behind it:
-👉 buymeacoffee.com/thomasquettier
+👉 [Buy me a coffee](https://www.buymeacoffee.com/thomasquettier)
 
 You’re also warmly invited to fork the repo, contribute, or reach out if you’re working on similar tools. Collaboration brews innovation!
 
