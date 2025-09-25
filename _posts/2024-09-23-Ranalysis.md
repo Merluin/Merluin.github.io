@@ -91,8 +91,7 @@ Data_analysis_template/
 ## ☕ The Coffee Machine Corner
 
 This blog — The Coffee Machine — is where ideas percolate.
-If you found this project useful, consider supporting the time and caffeine behind it:
-👉 [Buy me a coffee](https://www.buymeacoffee.com/thomasquettier)
+If you found this project useful, consider supporting the time and caffeine behind it.
 
 You’re also warmly invited to fork the repo, contribute, or reach out if you’re working on similar tools. Collaboration brews innovation!
 
