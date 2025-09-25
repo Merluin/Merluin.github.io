@@ -91,8 +91,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-upcoming-arca-psychopy-course-starting-november-27-2025",
-          title: 'Upcoming ARCA PsychoPy Course – Starting November 27, 2025',
+            },},{id: "news-upcoming-arca-psychopy-course-starting-october-27-2025",
+          title: 'Upcoming ARCA PsychoPy Course – Starting October 27, 2025',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
