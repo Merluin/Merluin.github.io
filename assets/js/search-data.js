@@ -96,10 +96,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-today-september-22-2025-i-am-joining-the-general-strike-called-by-the-unione-sindacale-di-base-usb-i-am-suspending-all-my-work-activities-for-the-entire-day-and-taking-part-in-the-related-demonstrations-although-my-current-position-as-a-postdoctoral-researcher-does-not-formally-grant-me-the-right-to-strike-i-have-chosen-to-stop-working-today-for-a-research-that-serves-the-freedom-of-peoples-not-their-oppressors-i-strike-to-express-my-solidarity-with-the-palestinian-people-who-are-enduring-an-ongoing-genocide-and-to-demand-a-free-palestine-our-country-and-our-universities-are-complicit-in-israeli-policies-i-demand-an-immediate-change-of-course-what-is-happening-in-gaza-is-not-in-my-name",
-          title: 'Today, September 22, 2025, I am joining the General Strike called by the...',
-          description: "",
-          section: "News",},{
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
