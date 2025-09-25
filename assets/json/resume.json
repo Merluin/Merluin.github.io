@@ -42,8 +42,8 @@
       "highlights": []
     },
     {
-      "name": "Ordine degli Psicologi dell'Emilia-Romagna",
-      "position": "Psychologist (Registered)",
+      "name": "Member of the Emilia-Romagna regional board of Psychologist (Italy)",
+      "position": "Licenced Psychologist",
       "url": "https://www.ordinepsicologier.it/it/albo/11581a-thomas%20charles%20joseph-quettier",
       "startDate": "2024-03-04",
       "endDate": null,
@@ -178,17 +178,6 @@
       "endDate": "2016-07-11",
       "score": "14.5/20",
       "courses": []
-    },
-    {
-      "institution": "École Saint-Jean",
-      "location": "France",
-      "url": null,
-      "area": "Philosophy",
-      "studyType": "BA-equivalent",
-      "startDate": "1997-09-01",
-      "endDate": "2000-06-30",
-      "score": "Passable",
-      "courses": ["Over 1000 hours of coursework", "Equivalent to 137 ECTS credits"]
     }
   ],
   "awards": [
